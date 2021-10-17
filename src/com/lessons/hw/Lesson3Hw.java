@@ -1,3 +1,5 @@
+package com.lessons.hw;
+
 import java.util.Arrays;
 
 import static java.lang.Math.abs;

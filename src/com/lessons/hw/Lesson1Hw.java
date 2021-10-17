@@ -1,4 +1,6 @@
-public class HomeWorkApp {
+package com.lessons.hw;
+
+public class Lesson1Hw {
     public static void main(String[] args) {
         printThreeWords();
         printColor();

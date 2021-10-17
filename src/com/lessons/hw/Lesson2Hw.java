@@ -1,3 +1,5 @@
+package com.lessons.hw;
+
 public class Lesson2Hw {
     public static void main(String[] args) {
         System.out.println(compareTwoNumbers(2,18));
